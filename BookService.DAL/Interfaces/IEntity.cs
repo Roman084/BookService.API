@@ -1,7 +1,4 @@
 ﻿namespace BookService.DAL.Interfaces
 {
-    public interface IEntity
-    {
-        
-    }
+    public interface IEntity {}
 }
