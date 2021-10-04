@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookService.DAL", "BookService.DAL\BookService.DAL.csproj", "{D47AB62A-296B-4A17-91F7-78BAA37B38A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookService.BLL", "BookService.BLL\BookService.BLL.csproj", "{65C6DB22-2C8E-40AC-BB22-18F0088C068C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D47AB62A-296B-4A17-91F7-78BAA37B38A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D47AB62A-296B-4A17-91F7-78BAA37B38A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D47AB62A-296B-4A17-91F7-78BAA37B38A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D47AB62A-296B-4A17-91F7-78BAA37B38A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65C6DB22-2C8E-40AC-BB22-18F0088C068C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65C6DB22-2C8E-40AC-BB22-18F0088C068C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65C6DB22-2C8E-40AC-BB22-18F0088C068C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65C6DB22-2C8E-40AC-BB22-18F0088C068C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

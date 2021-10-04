@@ -1,0 +1,15 @@
+C:\Users\Roman\Desktop\GitHub_Projects\BookService\BookService.DAL\bin\Debug\net5.0\BookService.DAL.deps.json
+C:\Users\Roman\Desktop\GitHub_Projects\BookService\BookService.DAL\bin\Debug\net5.0\BookService.DAL.runtimeconfig.json
+C:\Users\Roman\Desktop\GitHub_Projects\BookService\BookService.DAL\bin\Debug\net5.0\BookService.DAL.runtimeconfig.dev.json
+C:\Users\Roman\Desktop\GitHub_Projects\BookService\BookService.DAL\bin\Debug\net5.0\BookService.DAL.dll
+C:\Users\Roman\Desktop\GitHub_Projects\BookService\BookService.DAL\bin\Debug\net5.0\ref\BookService.DAL.dll
+C:\Users\Roman\Desktop\GitHub_Projects\BookService\BookService.DAL\bin\Debug\net5.0\BookService.DAL.pdb
+C:\Users\Roman\Desktop\GitHub_Projects\BookService\BookService.DAL\obj\Debug\net5.0\BookService.DAL.csproj.AssemblyReference.cache
+C:\Users\Roman\Desktop\GitHub_Projects\BookService\BookService.DAL\obj\Debug\net5.0\BookService.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\Desktop\GitHub_Projects\BookService\BookService.DAL\obj\Debug\net5.0\BookService.DAL.AssemblyInfoInputs.cache
+C:\Users\Roman\Desktop\GitHub_Projects\BookService\BookService.DAL\obj\Debug\net5.0\BookService.DAL.AssemblyInfo.cs
+C:\Users\Roman\Desktop\GitHub_Projects\BookService\BookService.DAL\obj\Debug\net5.0\BookService.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\GitHub_Projects\BookService\BookService.DAL\obj\Debug\net5.0\BookService.DAL.dll
+C:\Users\Roman\Desktop\GitHub_Projects\BookService\BookService.DAL\obj\Debug\net5.0\ref\BookService.DAL.dll
+C:\Users\Roman\Desktop\GitHub_Projects\BookService\BookService.DAL\obj\Debug\net5.0\BookService.DAL.pdb
+C:\Users\Roman\Desktop\GitHub_Projects\BookService\BookService.DAL\obj\Debug\net5.0\BookService.DAL.genruntimeconfig.cache
